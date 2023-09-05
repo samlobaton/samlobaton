@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samlobaton
 - 👀 I’m interested in physics, math and programation
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning coding on python, matlab and IDL
 - 💞️ I’m looking to collaborate on physics and maths investigation projects
 - 📫 How to reach me by email nlobatonr@fcpn.edu.no
 
